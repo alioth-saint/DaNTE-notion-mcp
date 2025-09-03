@@ -30,10 +30,12 @@ A Python script that automatically processes todo items from a Notion page using
 ## Installation
 
 ### 1. Clone or Download
+
 ```bash
-git clone <repository-url>
+git clone <(https://github.com/alioth-saint/DaNTE-notion-mcp)>
 cd Notionmcp
 ```
+Also see releases.
 
 ### 2. Install Python Dependencies
 ```bash
