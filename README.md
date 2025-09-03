@@ -1,3 +1,7 @@
+
+<img width="1920" height="1080" alt="Dante Banner" src="https://github.com/user-attachments/assets/68abd57c-34ad-4459-827b-58692838b7fa" />
+
+
 # DaNTE-notion-mcp
 Python3 project for Notion MCP servers, enabling advanced interactions with Claude Code. Lets users send smart to-do commands and prompts from Notion pages. Inspired by IndyDevDan’s programable MCP, ported to Python3 for better performance, optimized for Linux/Debian with seamless task-coding integration.
 
@@ -172,3 +176,6 @@ For issues and questions:
 
 ## Credits:
 Thanks to IndyDevDan and his youtube channel. His video and code can be found here: https://www.youtube.com/watch?v=2TIXl2rlA6Q
+
+## Disclaimer
+This project is an inspired fan creation and is not affiliated with Warframe, Digital Extremes or the Dante Warframe videogame character. Dante is a trademark of Digital Extremes.
